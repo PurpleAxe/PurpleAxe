@@ -1,0 +1,3 @@
+- Hi I am Andreas Hugh Visagie.
+- I am currently studying BSc Computer Science at the University of pretoria.
+- I am interested in exploring all sorts of fields in Computer Science and Mathematics
