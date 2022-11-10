@@ -3,4 +3,4 @@
 - I am interested in exploring all sorts of fields in Computer Science and Mathematics
 
 ![Andreas' Github Stats](https://github-readme-stats.vercel.app/api?username=PurpleAxe&count_private=true&show_icons=true&theme=transparent)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PurpleAxe)](https://github.com/anuraghazra/github-readme-stats)
+
