@@ -24,20 +24,23 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="left">
-<ul>
+<ul style="list-style: none;">
     <li> 
         English         
     </li>
-    <a align="right">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
+    <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
     <li> 
-        Afrikaans       🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧
+        Afrikaans       
     </li>
+    <a>🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧</a>
     <li> 
-        Siswati         🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧
+        Siswati
     </li>
+    <a>🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧</a>
     <li>
-        German          🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧
+        German
     </li>
+    <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
 </ul>    
 </div>
 
