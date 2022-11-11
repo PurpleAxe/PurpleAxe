@@ -85,10 +85,10 @@
         </th>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <a href=""> <img src="Resources/UKEnglishLogo.svg" width="120" height="90" alt="UKEnglish"> </a>
         </td>
-        <td>
+        <td align="center">
             <a href=""> <img src="Resources/SAAfrikaansLogo.svg" width="120" height="90" alt="Afrikaans"> </a>
         </td>
     </tr>
@@ -106,10 +106,10 @@
         </th>
     </tr>
     <tr>
-        <td>
+        <td align="center">
             <a href=""> <img src="Resources/SiswatiLogo.svg" width="120" height="90" alt="Siswati"> </a>
         </td>
-        <td>
+        <td align="center">
             <a href=""> <img src="Resources/GermanLogo.svg" width="120" height="90" alt="German"> </a>
         </td>
     </tr>
