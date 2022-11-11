@@ -107,10 +107,10 @@
     </tr>
     <tr>
         <td>
-            <a href=""> <img src="Resources/SiswatiLogo.svg" width="45" height="45" alt="Siswati"> </a>
+            <a href=""> <img src="Resources/SiswatiLogo.svg" width="120" height="90" alt="Siswati"> </a>
         </td>
         <td>
-            <a href=""> <img src="Resources/SiswatiLogo.svg" width="45" height="45" alt="Siswati"> </a>
+            <a href=""> <img src="Resources/GermanLogo.svg.svg" width="120" height="90" alt="German"> </a>
         </td>
     </tr>
 </table> 
