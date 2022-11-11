@@ -132,14 +132,9 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
 <h1 align="center"> Currently Reading </h1>
 <div align="center">
     <p> These are books I am currently reading. </p>
-    <table>
-        <th>
-            <tr> Clean Code </tr>
-        </th>
-        <td>
-            <tr> By Robert C. Martin and Dean Wampler
-        <td>
-    </table>
+    <!-- Clean Code -->
+    <h3> Clean Code </h3>
+    <p> By Robert C. Martin and Dean Wampler </p>
 </div>
 
 <!-- CONTACT -->
