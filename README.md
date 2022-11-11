@@ -63,35 +63,39 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
-<ul style="list-style-type:none">
-    <li> 
+<!-- <ul style="list-style-type:none"> -->
+    <p> 
         <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
         English         
-    </li>
+    </p>
     <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
-    <li> 
+    <p> 
         <a href=""> <img src="Resources/SAAfrikaansLogo.svg" width="45" height="45" alt="Afrikaans"> </a>
         Afrikaans       
-    </li>
+    </p>
     <a>🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧</a>
-    <li> 
+    <p> 
         <a href=""> <img src="Resources/SiswatiLogo.svg" width="45" height="45" alt="Siswati"> </a>
         Siswati
-    </li>
+    </p>
     <a>🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧</a>
-    <li>
+    <p>
         <a href=""> <img src="Resources/GermanLogo.svg" width="45" height="45" alt="German"> </a>
         German
-    </li>
+    </p>
     <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
 </ul>    
-</div>
+<!-- </div> -->
 
 <!-- READING -->
 <h1 align="center"> Currently Reading </h1>
 
 <!-- CONTACT -->
 <h1 align="center"> Contact Me </h1>
+<div align="center">
+    <!-- Linkedin -->
+    <a href=""> <img src="Resources/LinkedInLogo.svg" width="45" height="45" alt="LinedIN"> </a>
+</div>
 
 
 ![Andreas' Github Stats](https://github-readme-stats.vercel.app/api?username=PurpleAxe&count_private=true&show_icons=true&theme=transparent)
