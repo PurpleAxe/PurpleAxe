@@ -20,29 +20,33 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
     <!-- HTML -->
     <a href="https://html.com/"> <img src="Resources/HTML5Logo.svg" width="45" height="45" alt="HTML"> </a>
     <!-- CSS -->
-    <a href="https://html.com/"> <img src="Resources/CSS3Logo.svg" width="45" height="45" alt="CSS"> </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html"> <img src="Resources/CSS3Logo.svg" width="45" height="45" alt="CSS"> </a>
     <!-- JavaScript -->
     <a href="https://www.javascript.com/"> <img src="Resources/JavaScriptLogo.svg" width="45" height="45" alt="JS"> </a>
     <!-- TypeScript -->
-    <a href=""> <img src="Resources/TypeScriptLogo.svg" width="45" height="45" alt="TS"> </a>
+    <a href="https://www.typescriptlang.org/"> <img src="Resources/TypeScriptLogo.svg" width="45" height="45" alt="TS"> </a>
     <!-- Angular -->
-    <a href=""> <img src="Resources/AngularLogo.svg" width="45" height="45" alt="Angular"> </a>
+    <a href="https://angular.io/"> <img src="Resources/AngularLogo.svg" width="45" height="45" alt="Angular"> </a>
     <!-- Bootstrap -->
-    <a href=""> <img src="Resources/BootstrapLogo.svg" width="45" height="45" alt="Bootstrap"> </a>
+    <a href="https://getbootstrap.com/"> <img src="Resources/BootstrapLogo.svg" width="45" height="45" alt="Bootstrap"> </a>
     <!-- Delphi -->
-    <a href=""> <img src="Resources/DelphiLogo.png" width="45" height="45" alt="Delphi"> </a>
+    <a href="https://www.embarcadero.com/products/delphi"> <img src="Resources/DelphiLogo.png" width="45" height="45" alt="Delphi"> </a>
     <!-- NETCORE -->
-    <a href=""> <img src="Resources/NETCoreLogo.svg" width="45" height="45" alt="NETCORE"> </a>
+    <a href="https://dotnet.microsoft.com/en-us/"> <img src="Resources/NETCoreLogo.svg" width="45" height="45" alt="NETCORE"> </a>
     <!-- PHP -->
-    <a href=""> <img src="Resources/PHPLogo.svg" width="45" height="45" alt="PHP"> </a>
+    <a href="https://www.php.net/"> <img src="Resources/PHPLogo.svg" width="45" height="45" alt="PHP"> </a>
     <!-- Python -->
-    <a href=""> <img src="Resources/PythonLogo.png" width="45" height="45" alt="Python"> </a>
+    <a href="https://www.python.org/"> <img src="Resources/PythonLogo.png" width="45" height="45" alt="Python"> </a>
     <!-- R -->
-    <a href=""> <img src="Resources/RLogo.svg" width="45" height="45" alt="R"> </a>
+    <a href="https://www.r-project.org/"> <img src="Resources/RLogo.svg" width="45" height="45" alt="R"> </a>
     <!-- Spring -->
-    <a href=""> <img src="Resources/SpringLogo.svg" width="45" height="45" alt="Spring"> </a>
+    <a href="https://spring.io/projects/spring-boot"> <img src="Resources/SpringLogo.svg" width="45" height="45" alt="Spring"> </a>
     <!-- x86 Assemnbly -->
-    <a href=""> <img src="Resources/x86AsmLogo.png" width="45" height="45" alt="Assembly"> </a>
+    <a href="https://en.wikipedia.org/wiki/X86_assembly_language"> <img src="Resources/x86AsmLogo.png" width="45" height="45" alt="Assembly"> </a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/"> <img src="Resources/MysqlLogo.svg" width="45" height="45" alt="MySQL"> </a>
+    <!-- MariaDB -->
+    <a href="https://mariadb.org/"> <img src="Resources/MariadbLogo.png" width="45" height="45" alt="MariaDB"> </a>
 </div>
 
 <!-- LEARNING -->
@@ -94,10 +98,10 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
         </tr>
         <tr>
             <td align="center">
-                <a href=""> <img src="Resources/UKEnglishLogo.svg" width="120" height="90" alt="UKEnglish"> </a>
+                <a href="https://en.wikipedia.org/wiki/South_African_English"> <img src="Resources/UKEnglishLogo.svg" width="120" height="90" alt="UKEnglish"> </a>
             </td>
             <td align="center">
-                <a href=""> <img src="Resources/SAAfrikaansLogo.svg" width="120" height="90" alt="Afrikaans"> </a>
+                <a href="https://en.wikipedia.org/wiki/Afrikaans"> <img src="Resources/SAAfrikaansLogo.svg" width="120" height="90" alt="Afrikaans"> </a>
             </td>
         </tr>
         <!-- Lower Table -->
@@ -115,10 +119,10 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
         </tr>
         <tr>
             <td align="center">
-                <a href=""> <img src="Resources/SiswatiLogo.svg" width="120" height="90" alt="Siswati"> </a>
+                <a href="https://en.wikipedia.org/wiki/Swazi_language"> <img src="Resources/SiswatiLogo.svg" width="120" height="90" alt="Siswati"> </a>
             </td>
             <td align="center">
-                <a href=""> <img src="Resources/GermanLogo.svg" width="120" height="90" alt="German"> </a>
+                <a href="https://en.wikipedia.org/wiki/German_language"> <img src="Resources/GermanLogo.svg" width="120" height="90" alt="German"> </a>
             </td>
         </tr>
     </table> 
@@ -131,7 +135,7 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
     <table>
         <tr>
             <th> Clean Code </th>
-            <tr> by Robert C. Martin and Dean Wampler </tr> 
+            <td> by Robert C. Martin and Dean Wampler </td> 
         </tr>
     </table>
 </div>
@@ -141,10 +145,10 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
 <div align="center">
     <p> Find me on these social media platforms </p>
     <!-- Linkedin -->
-    <a href=""> <img src="Resources/LinkedInLogo.svg" width="165" height="45" alt="LinedIN"> </a>
+    <a href="https://www.linkedin.com/in/andreas-visagie-b838bb205/"> <img src="Resources/LinkedInLogo.svg" width="165" height="45" alt="LinedIN"> </a>
 </div>
 
 <div align="center">
-    ![Andreas' Github Stats](https://github-readme-stats.vercel.app/api?username=PurpleAxe&count_private=true&show_icons=true&theme=transparent)
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PurpleAxe&count_private=true&show_icons=true&theme=transparent" />
 </div>
 
