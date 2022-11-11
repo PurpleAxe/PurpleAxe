@@ -5,7 +5,7 @@
 <!-- TECHNOLOGIES -->
 <h1 align="center"> Technologies Used </h1>
 <div align="center">
-
+        <a href="https://cplusplus.com/"> <img src="Resources/C++Logo.svg" width="30" height="30" alt="C++"> </a>
 </div>
 
 <!-- LEARNING -->
@@ -24,7 +24,7 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
-<ul style="list-style-type: none;">
+<ul style="list-style-type:none;">
     <li> 
         English         
     </li>
