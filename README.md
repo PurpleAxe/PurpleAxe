@@ -63,38 +63,57 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
+<!-- 
+|-------|---------|
+|ENGLISH|Afrikaans|
+|-------|---------|
+|Swati  |German   |
+|-------|---------|
+ -->
 <table>
+    <!-- Upper Table -->
     <tr>
         <th> 
             <h3> 
                 English <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>      
             </h3>
         </th>
+        <th>
+            <h3> 
+                Afrikaans <a>🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧</a>       
+            </h3>
+        </th>
     </tr>
     <tr>
         <td>
-            <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
+            <a href=""> <img src="Resources/UKEnglishLogo.svg" width="120" height="90" alt="UKEnglish"> </a>
+        </td>
+        <td>
+            <a href=""> <img src="Resources/SAAfrikaansLogo.svg" width="120" height="90" alt="Afrikaans"> </a>
         </td>
     </tr>
-</table>
-
-
-    <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
-    <h3> 
-        English <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>      
-    </h3>
-        <a href=""> <img src="Resources/SAAfrikaansLogo.svg" width="45" height="45" alt="Afrikaans"> </a>
-    <h3> 
-        Afrikaans <a>🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧</a>       
-    </h3>
-        <a href=""> <img src="Resources/SiswatiLogo.svg" width="45" height="45" alt="Siswati"> </a>
-    <h3>         
-        Siswati <a>🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧</a>
-    </h3>
-        <a href=""> <img src="Resources/GermanLogo.svg" width="45" height="45" alt="German"> </a>
-    <h3>
-        German <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
-    </h3>   
+    <!-- Lower Table -->
+    <tr>
+        <th>
+            <h3>         
+                Siswati <a>🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧</a>
+            </h3>
+        </th>
+        <th>
+            <h3>
+                German <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
+            </h3>  
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <a href=""> <img src="Resources/SiswatiLogo.svg" width="45" height="45" alt="Siswati"> </a>
+        </td>
+        <td>
+            <a href=""> <img src="Resources/SiswatiLogo.svg" width="45" height="45" alt="Siswati"> </a>
+        </td>
+    </tr>
+</table> 
 </div>
 
 <!-- READING -->
