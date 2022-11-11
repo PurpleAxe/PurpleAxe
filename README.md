@@ -4,7 +4,7 @@
 
 <ul>
     <li>
-        <img src="Resources/VueLogo.png">
+        <img src="Resources/VueLogo.svg" width="50" height="50">
         <img src="https://geps.dev/progress/10">
     </li>
 <ul>
