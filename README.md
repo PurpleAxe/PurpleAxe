@@ -23,7 +23,7 @@
 
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
-<div align="left">
+<div align="center">
 <ul style="list-style: none;">
     <li> 
         English         
