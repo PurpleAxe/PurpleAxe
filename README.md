@@ -63,6 +63,22 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
+<table>
+    <tr>
+        <th> 
+            <h3> 
+                English <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>      
+            </h3>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
+        </td>
+    </tr>
+</table>
+
+
     <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
     <h3> 
         English <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>      
