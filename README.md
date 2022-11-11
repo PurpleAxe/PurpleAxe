@@ -25,7 +25,8 @@
 <h1 align="center"> Spoken Languages </h1>
 <div align="left">
     <p> 
-        English         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+        English         
+        <a align="right">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
     </p>
     <p> 
         Afrikaans       🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧
