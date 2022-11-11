@@ -23,12 +23,16 @@
 <h1 align="center"> Operating Systems Used </h1>
 <div align="center">
     <a href="https://archlinux.org/"> <img src="Resources/ArchLogo.svg" width="45" height="45" alt="ArchLinux"> </a>
+    <a href="https://ubuntu.com/"> <img src="Resources/UbuntuLogo.svg" width="45" height="45" alt="Ubuntu"> </a>
+    <a href="https://www.debian.org/"> <img src="Resources/DebianLogo.svg" width="45" height="45" alt="Debian"> </a>
+    <a href="https://www.microsoft.com/en-za/windows/"> <img src="Resources/WindowsLogo.svg" width="45" height="45" alt="Windows"> </a>
+
 </div>
 
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
-<ul style="list-style-type:none;">
+<ul style="list-style-type:none">
     <li> 
         English         
     </li>
