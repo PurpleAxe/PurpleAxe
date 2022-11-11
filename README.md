@@ -11,8 +11,8 @@
 <!-- LEARNING -->
 <h1 align="center"> Currently Learning </h1>
 <div align="center">
-    <a href="https://vuejs.org/"> <img src="Resources/VueLogo.svg" width="50" height="50"> </a>
-    <a href="https://www.linux.org/"> <img src="Resources/TuxLinux.png" width="50" height="50"> </a>
+    <a href="https://vuejs.org/"> <img src="Resources/VueLogo.svg" width="30" height="30"> </a>
+    <a href="https://www.linux.org/"> <img src="Resources/TuxLinux.png" width="30" height="30"> </a>
 </div>
 
 <!-- OPERATING SYSTEMS -->
