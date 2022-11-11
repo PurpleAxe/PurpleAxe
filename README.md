@@ -11,30 +11,30 @@
 <!-- LEARNING -->
 <h1 align="center"> Currently Learning </h1>
 <div align="center">
-    <a href="https://vuejs.org/"> <img src="Resources/VueLogo.svg" width="30" height="30"> </a>
-    <a href="https://www.linux.org/"> <img src="Resources/TuxLinux.png" width="30" height="30"> </a>
+    <a href="https://vuejs.org/"> <img src="Resources/VueLogo.svg" width="30" height="30" alt="VueJS"> </a>
+    <a href="https://www.linux.org/"> <img src="Resources/TuxLinux.png" width="30" height="30" alt="Linux"> </a>
 </div>
 
 <!-- OPERATING SYSTEMS -->
 <h1 align="center"> Operating Systems Used </h1>
 <div align="center">
-    <a href="https://archlinux.org/"> <img src="Resources/ArchLogo.svg" width="30" height="30"> </a>
+    <a href="https://archlinux.org/"> <img src="Resources/ArchLogo.svg" width="30" height="30" alt="ArchLinux"> </a>
 </div>
 
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="left">
     <p> 
-        English&emsp;🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+        English         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
     </p>
     <p> 
-        Afrikaans&emsp;🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧
+        Afrikaans       🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧
     </p>
     <p> 
-        Siswati&emsp;🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧
+        Siswati         🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧
     </p>
     <p>
-        German&emsp;🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧
+        German          🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧
     </p>
 </div>
 
