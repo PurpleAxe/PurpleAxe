@@ -24,22 +24,18 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="left">
-    <a> 
-        English
-        <progress value="100" max="100"> 
-    </a>
-    <a> 
-        Afrikaans 
-        <progress value="85" max="100">
-    </a>
-    <a> 
-        Siswati 
-        <progress value="35" max="100">
-    </a>
-    <a>
-        German 
-        <progress value="30" max="100">
-    </a>
+    <p> 
+        English&emsp;🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+    </p>
+    <p> 
+        Afrikaans&emsp;🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧
+    </p>
+    <p> 
+        Siswati&emsp;🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧
+    </p>
+    <p>
+        German&emsp;🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧
+    </p>
 </div>
 
 <!-- READING -->
