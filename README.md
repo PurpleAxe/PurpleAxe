@@ -9,7 +9,7 @@
     <!-- C++ -->
     <a href="https://cplusplus.com/"> <img src="Resources/C++Logo.svg" width="45" height="45" alt="C++"> </a>
     <!-- C# -->
-    <a href=""> <img src="Resources/ChashLogo.svg" width="45" height="45" alt=""> </a>
+    <a href=""> <img src="Resources/CHashLogo.svg" width="45" height="45" alt=""> </a>
     <!-- JAVA -->
     <a href="https://www.java.com/en/"> <img src="Resources/JavaLogo.svg" width="45" height="45" alt="JAVA"> </a>
     <!-- HTML -->
@@ -123,7 +123,7 @@
 <h1 align="center"> Contact Me </h1>
 <div align="center">
     <!-- Linkedin -->
-    <a href=""> <img src="Resources/LinkedInLogo.svg" width="165" height="45" alt="LinedIN"> </a>
+    <a href=""> <img src="Resources/LinkedInLogo.svg.svg" width="165" height="45" alt="LinedIN"> </a>
 </div>
 
 
