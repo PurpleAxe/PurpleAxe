@@ -63,29 +63,23 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
-<!-- <ul style="list-style-type:none"> -->
     <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
     <h3> 
-        English   <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>      
+        English <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>      
     </h3>
-    <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
-    <p> 
         <a href=""> <img src="Resources/SAAfrikaansLogo.svg" width="45" height="45" alt="Afrikaans"> </a>
-        Afrikaans       
-    </p>
-    <a>🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧</a>
-    <p> 
+    <h3> 
+        Afrikaans <a>🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧</a>       
+    </h3>
         <a href=""> <img src="Resources/SiswatiLogo.svg" width="45" height="45" alt="Siswati"> </a>
-        Siswati
-    </p>
-    <a>🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧</a>
-    <p>
+    <h3>         
+        Siswati <a>🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧</a>
+    </h3>
         <a href=""> <img src="Resources/GermanLogo.svg" width="45" height="45" alt="German"> </a>
-        German
-    </p>
-    <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
-</ul>    
-<!-- </div> -->
+    <h3>
+        German <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
+    </h3>   
+</div>
 
 <!-- READING -->
 <h1 align="center"> Currently Reading </h1>
