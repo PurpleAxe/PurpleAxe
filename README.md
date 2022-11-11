@@ -5,20 +5,24 @@
 <!-- TECHNOLOGIES -->
 <h1 align="center"> Technologies Used </h1>
 <div align="center">
-        <a href="https://cplusplus.com/"> <img src="Resources/C++Logo.svg" width="30" height="30" alt="C++"> </a>
+        <a href="https://cplusplus.com/"> <img src="Resources/C++Logo.svg" width="45" height="45" alt="C++"> </a>
+        <a href="https://www.java.com/en/"> <img src="Resources/JavaLogo.svg" width="45" height="45" alt="JAVA"> </a>
+        <a href="https://html.com/"> <img src="Resources/HTML5Logo.svg" width="45" height="45" alt="HTML"> </a>
+        <a href="https://html.com/"> <img src="Resources/CSS3Logo.svg" width="45" height="45" alt="CSS"> </a>
+        <a href="https://www.javascript.com/"> <img src="Resources/JavaScriptLogo.svg" width="45" height="45" alt="JS"> </a>
 </div>
 
 <!-- LEARNING -->
 <h1 align="center"> Currently Learning </h1>
 <div align="center">
-    <a href="https://vuejs.org/"> <img src="Resources/VueLogo.svg" width="30" height="30" alt="VueJS"> </a>
-    <a href="https://www.linux.org/"> <img src="Resources/TuxLinux.png" width="30" height="30" alt="Linux"> </a>
+    <a href="https://vuejs.org/"> <img src="Resources/VueLogo.svg" width="45" height="45" alt="VueJS"> </a>
+    <a href="https://www.linux.org/"> <img src="Resources/TuxLinux.png" width="45" height="45" alt="Linux"> </a>
 </div>
 
 <!-- OPERATING SYSTEMS -->
 <h1 align="center"> Operating Systems Used </h1>
 <div align="center">
-    <a href="https://archlinux.org/"> <img src="Resources/ArchLogo.svg" width="30" height="30" alt="ArchLinux"> </a>
+    <a href="https://archlinux.org/"> <img src="Resources/ArchLogo.svg" width="45" height="45" alt="ArchLinux"> </a>
 </div>
 
 <!-- LANGUAGES SPOKEN -->
