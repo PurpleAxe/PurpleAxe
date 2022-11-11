@@ -24,19 +24,21 @@
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="left">
-    <p> 
+<ul>
+    <li> 
         English         
-    </p>
+    </li>
     <a align="right">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
-    <p> 
+    <li> 
         Afrikaans       🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧
-    </p>
-    <p> 
+    </li>
+    <li> 
         Siswati         🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧
-    </p>
-    <p>
+    </li>
+    <li>
         German          🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧
-    </p>
+    </li>
+</ul>    
 </div>
 
 <!-- READING -->
