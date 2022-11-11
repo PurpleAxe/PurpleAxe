@@ -123,7 +123,7 @@
 <h1 align="center"> Contact Me </h1>
 <div align="center">
     <!-- Linkedin -->
-    <a href=""> <img src="Resources/LinkedInLogo.svg.svg" width="165" height="45" alt="LinedIN"> </a>
+    <a href=""> <img src="Resources/LinkedInLogo.svg" width="165" height="45" alt="LinedIN"> </a>
 </div>
 
 
