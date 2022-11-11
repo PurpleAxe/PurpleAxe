@@ -64,10 +64,10 @@
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
 <!-- <ul style="list-style-type:none"> -->
-    <p> 
+    <h3> 
         <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
         English         
-    </p>
+    </h3>
     <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
     <p> 
         <a href=""> <img src="Resources/SAAfrikaansLogo.svg" width="45" height="45" alt="Afrikaans"> </a>
