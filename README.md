@@ -72,6 +72,13 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
     <a href="https://www.microsoft.com/en-za/windows/"> <img src="Resources/WindowsLogo.svg" width="45" height="45" alt="Windows"> </a>
 </div>
 
+<!-- STATS -->
+<h1 align="center"> GitHub Stats </h1>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PurpleAxe&count_private=true&show_icons=true&theme=transparent" />
+</div>
+
+
 <!-- LANGUAGES SPOKEN -->
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
@@ -145,9 +152,4 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
     <a href="https://www.linkedin.com/in/andreas-visagie-b838bb205/"> <img src="Resources/LinkedInLogo.svg" width="165" height="45" alt="LinedIN"> </a>
 </div>
 
-<!-- STATS -->
-<h1 align="center"> Stats </h1>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PurpleAxe&count_private=true&show_icons=true&theme=transparent" />
-</div>
 
