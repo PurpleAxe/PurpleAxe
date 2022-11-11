@@ -26,8 +26,8 @@
 <div align="left">
     <p> 
         English         
-        <a align="right">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
     </p>
+    <a align="right">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
     <p> 
         Afrikaans       🟩🟩🟩🟩🟩🟩🟩🟩🟧🟧
     </p>
