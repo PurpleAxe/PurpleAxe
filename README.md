@@ -64,9 +64,9 @@
 <h1 align="center"> Spoken Languages </h1>
 <div align="center">
 <!-- <ul style="list-style-type:none"> -->
+    <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
     <h3> 
-        <a href=""> <img src="Resources/UKEnglishLogo.svg" width="45" height="45" alt="UKEnglish"> </a>
-        English         
+        English   <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>      
     </h3>
     <a>🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</a>
     <p> 
