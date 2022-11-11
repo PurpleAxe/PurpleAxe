@@ -17,6 +17,30 @@
 
 <!-- OPERATING SYSTEMS -->
 <h1 align="center"> Operating Systems Used </h1>
+<div align="center">
+    <a href="https://archlinux.org/"> <img src="Resources/ArchLogo.svg" width="30" height="30"> </a>
+</div>
+
+<!-- LANGUAGES SPOKEN -->
+<h1 align="center"> Spoken Languages </h1>
+<div align="left">
+    <a> 
+        English
+        <progress value="100" max="100"> 
+    </a>
+    <a> 
+        Afrikaans 
+        <progress value="85" max="100">
+    </a>
+    <a> 
+        Siswati 
+        <progress value="35" max="100">
+    </a>
+    <a>
+        German 
+        <progress value="30" max="100">
+    </a>
+</div>
 
 <!-- READING -->
 <h1 align="center"> Currently Reading </h1>
