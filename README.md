@@ -1,10 +1,10 @@
-![](AVLogo.png)
-<h2 align="center"> About Me </h1>
+![](Resources/AVLogo.png)
+<h1 align="center"> About Me </h1>
 <h1 align="center"> Currently Learning </h1>
 
 <ul>
     <li>
-
+        <img src="Resources/VueLogo.png">
         ![](https://geps.dev/progress/10)
     </li>
 <ul>
