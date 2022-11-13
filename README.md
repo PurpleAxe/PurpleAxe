@@ -115,12 +115,12 @@ Hey there, my full name is Andreas Hugh Visagie. I am currently a full-time comp
         <tr>
             <th>
                 <h3>         
-                    Siswati <a>🟩🟩🟩🟩🟧🟧🟧🟧🟧🟧</a>
+                    Siswati <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
                 </h3>
             </th>
             <th>
                 <h3>
-                    German <a>🟩🟩🟩🟧🟧🟧🟧🟧🟧🟧</a>
+                    German <a>🟩🟩🟧🟧🟧🟧🟧🟧🟧🟧</a>
                 </h3>  
             </th>
         </tr>
